@@ -1,5 +1,6 @@
 name = "deskbot-worker"
 type = "javascript"
+main = "src/index.js"
 
 account_id = ""
 workers_dev = true
