@@ -1,0 +1,6 @@
+name = "deskbot-worker"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+compatibility_date = "2023-12-01"
